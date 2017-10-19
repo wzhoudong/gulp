@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
@@ -5,3 +6,6 @@ bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccc
 
 dddddddddddddddddddddddddddddddddd
+=======
+﻿
+>>>>>>> parent of 87b6b68... commit~2
